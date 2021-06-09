@@ -40,3 +40,6 @@ Http GET endpoints:
 "debitAmount":"100"
 }
 ``` 
+# Features
+1. Implemented JWT
+2. Definitions of Player and Currency
